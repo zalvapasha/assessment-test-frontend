@@ -1,0 +1,61 @@
+.container {
+  inset: 0;
+  z-index: 1;
+  position: fixed;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(26, 26, 26, 0.5);
+}
+
+.form-box {
+  background-color: #f1faff;
+}
+
+.form-content {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.input-radio label {
+  margin-right: 10px;
+}
+
+label {
+  font-size: larger;
+  padding-bottom: 2px;
+}
+
+.end-button-container {
+  width: 100%;
+  display: flex;
+  gap: 5px;
+}
+
+.btn {
+  width: 50%;
+}
+
+.primary {
+  color: white;
+  background-color: #55608f;
+}
+
+.primary:hover {
+  background-color: #464e74;
+}
+
+p {
+  padding-bottom: 20px;
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "1001",
+      "nama": "Alya",
+      "alamat": "Jl. Merpati 1",
+      "jenis_kelamin": "Wanita",
+      "tanggal_lahir": "25-12-1990",
+      "tanggal_input": "14-08-2024 17:54"
+    },
+    {
+      "id": "1002",
+      "nama": "Budi",
+      "alamat": "Jl. Kenari 2",
+      "jenis_kelamin": "Pria",
+      "tanggal_lahir": "15-03-1985",
+      "tanggal_input": "14-08-2024 17:55"
+    },
+    {
+      "id": "1003",
+      "nama": "Dina",
+      "alamat": "Jl. Cendrawasih 3",
+      "jenis_kelamin": "Wanita",
+      "tanggal_lahir": "05-07-1992",
+      "tanggal_input": "14-08-2024 17:56"
+    },
+    {
+      "id": "1004",
+      "nama": "Eko",
+      "alamat": "Jl. Pahlawan 4",
+      "jenis_kelamin": "Pria",
+      "tanggal_lahir": "30-09-1988",
+      "tanggal_input": "14-08-2024 17:57"
+    },
+    {
+      "id": "1005",
+      "nama": "Fani",
+      "alamat": "Jl. Pelangi 5",
+      "jenis_kelamin": "Wanita",
+      "tanggal_lahir": "22-11-1995",
+      "tanggal_input": "14-08-2024 17:58"
+    },
+    {
+      "id": "1006",
+      "nama": "Gani",
+      "alamat": "Jl. Bunga 6",
+      "jenis_kelamin": "Pria",
+      "tanggal_lahir": "12-01-1980",
+      "tanggal_input": "14-08-2024 17:59"
+    },
+    {
+      "id": "1007",
+      "nama": "Hani",
+      "alamat": "Jl. Anggrek 7",
+      "jenis_kelamin": "Wanita",
+      "tanggal_lahir": "18-04-1993",
+      "tanggal_input": "14-08-2024 18:00"
+    },
+    {
+      "id": "1008",
+      "nama": "Iwan",
+      "alamat": "Jl. Teratai 8",
+      "jenis_kelamin": "Pria",
+      "tanggal_lahir": "28-06-1987",
+      "tanggal_input": "14-08-2024 18:01"
+    },
+    {
+      "id": "1009",
+      "nama": "Jeni",
+      "alamat": "Jl. Mawar 9",
+      "jenis_kelamin": "Wanita",
+      "tanggal_lahir": "10-10-1991",
+      "tanggal_input": "14-08-2024 18:02"
+    },
+    {
+      "id": "1010",
+      "nama": "Kris",
+      "alamat": "Jl. Kamboja 10",
+      "jenis_kelamin": "Pria",
+      "tanggal_lahir": "20-02-1989",
+      "tanggal_input": "14-08-2024 18:03"
+    }
+  ]
+}
